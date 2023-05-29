@@ -7,3 +7,15 @@ body{
     background-color: #edeec0;
 }
 
+ul{
+    margin-right: 60px;
+}
+.cm-soon{
+    color: white;
+    text-align: center;
+ 
+}
+hr{
+    margin: auto;
+    width: 200px;
+}
