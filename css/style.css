@@ -19,3 +19,12 @@ hr{
     margin: auto;
     width: 200px;
 }
+.home h3{
+    font-size: 32px;
+}
+.home h1{
+    font-size: 56px;
+}
+.home p{
+    font-size: 16px;
+}
