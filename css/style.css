@@ -28,3 +28,13 @@ hr{
 .home p{
     font-size: 16px;
 }
+.about-text{
+    font-size: 16px;
+}
+.bg-purple{
+    background-color: purple;
+}
+.progress{
+    margin-top: 10px;
+    height: 30px;
+}
