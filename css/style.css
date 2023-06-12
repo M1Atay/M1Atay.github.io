@@ -19,6 +19,9 @@ hr{
     margin: auto;
     width: 200px;
 }
+.home{
+    margin-top: 100px;
+}
 .home h3{
     font-size: 32px;
 }
@@ -26,7 +29,8 @@ hr{
     font-size: 56px;
 }
 .home p{
-    font-size: 16px;
+    margin-top: 20px;
+    font-size: 18px;
 }
 .about-text{
     font-size: 16px;
@@ -40,4 +44,17 @@ hr{
 }
 .margin-about{
     height: 30px;
+}
+.about{
+    margin-top: 180px;
+}
+.project{
+    margin-top: 180px;
+}
+.card-body{
+    color: black;
+   
+}
+.card{
+    margin: 20px;
 }
