@@ -15,10 +15,7 @@ ul{
     text-align: center;
  
 }
-hr{
-    margin: auto;
-    width: 200px;
-}
+
 .home{
     margin-top: 100px;
 }
@@ -57,4 +54,8 @@ hr{
 }
 .card{
     margin: 20px;
+   
+}
+.contact{
+    margin-top: 180px;
 }
