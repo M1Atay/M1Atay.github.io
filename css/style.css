@@ -59,3 +59,19 @@ ul{
 .contact{
     margin-top: 180px;
 }
+.bar{
+    margin-top: 40px;
+}
+.contact-me{
+    margin-top: 100px;
+    background-color: rgb(28, 25, 25);
+    border-radius: 20px;
+    margin-bottom: 180px;
+   
+}
+.send-button{
+    margin-top: 50px;
+    margin-bottom: 50px;
+ 
+
+}
