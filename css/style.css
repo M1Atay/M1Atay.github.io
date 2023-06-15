@@ -69,9 +69,16 @@ ul{
     margin-bottom: 180px;
    
 }
+form{
+    background-color: grey;
+    border-radius: 5px;
+}
 .send-button{
     margin-top: 50px;
     margin-bottom: 50px;
  
 
+}
+.contact-bottom{
+    margin-bottom: 180px;
 }
