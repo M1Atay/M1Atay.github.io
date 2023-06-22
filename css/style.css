@@ -48,6 +48,9 @@ ul{
 .project{
     margin-top: 180px;
 }
+.about-portfolio{
+    margin-top: 180px;
+}
 .card-body{
     color: black;
    
@@ -82,4 +85,7 @@ form{
 }
 .contact-bottom{
     margin-bottom: 180px;
+}
+.mh{
+    width: 100%;
 }
