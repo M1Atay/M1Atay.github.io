@@ -6,6 +6,16 @@ body{
 .bg-header{
     background-color: #edeec0;
 }
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    transition: top 1.8s;
+}
+
+.navbar.hidden {
+    top: -80px; /* Adjust this value based on your navbar height */
+}
 
 ul{
     margin-right: 60px;
@@ -60,7 +70,7 @@ ul{
    
 }
 .contact{
-    margin-top: 180px;
+    margin-top: 90px;
 }
 .bar{
     margin-top: 40px;
@@ -72,20 +82,15 @@ ul{
     margin-bottom: 180px;
    
 }
-form{
-    background-color: #C0AFB6;
-    border-radius: 5px;
-}
-.send-button{
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
- 
-
-}
-.contact-bottom{
-    margin-bottom: 180px;
-}
+.contact-bottom {
+    padding-top: 50px;
+  }
+  .contact h1 {
+    margin-bottom: 30px;
+  }
+  .send-button {
+    width: 100%;
+  }
 .mh{
     width: 100%;
 }
